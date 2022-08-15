@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/custom_background.xml" value="0.1475" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/custom_buttom.xml" value="0.21328125" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/custom_button.xml" value="0.23046875" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/ic_baseline_fiber_manual_record_24.xml" value="0.16625" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/ic_dot.xml" value="0.16625" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23046875" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/drawable/tab_corners_shape.xml" value="0.2529296875" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/bottom_navigation_view.xml" value="0.2" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/fragment_central.xml" value="0.2" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/fragment_left.xml" value="0.189375" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/fragment_right.xml" value="0.189375" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/fragment_stopwatch.xml" value="0.16940789473684212" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/layout/fragment_timer.xml" value="0.17697594501718214" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/menu/botton_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23046875" />
+        <entry key="..\:/Users/Arta0/Documents/Projects/MyStopWatch/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.23046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

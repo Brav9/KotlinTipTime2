@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Автомобильные марки мира</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Автомобильные марки мира</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="american_cars">Американские</string>
+    <string name="american_cars1">Компания Buick – американский автопроизводитель, отделение корпорации General Motors.
+Дэвид Д. Бьюик, разработавший способ соединения фарфора и металлом для производства кухонного оборудования и сантехники, вложил заработанные на этом изобретении деньги в создание компании Buick Auto-Vim and Power, специализировавшейся на производстве стационарных двигателей внутреннего сгорания. Спустя некоторое время Дэвид Д. Бьюик принял решение о начале производства автомобилей.
+Первая машина производства Дэвид Д. Бьюик увидела свет в 1902 году.\n
+    Достоверных сведений о первом Buick В не сохранилось. По рассказам очевидцев, Buick В был надежной и сильной самобеглой коляской с открытым верхом, нижнеклапанным мотором и рукояткой рулевого управления. Он умел преодолевать довольно крутые подъемы, что особенно ценилось в то время. За год с момента начала продаж было собрано всего лишь 37 машин.
+Длительный процесс разработки и производства «съел» все средства образованной в 1903 году Buick Motor Company, вынудив основателя продать ее, что и произошло в 1904 году. Новые владельцы вложили немалые средства и усилия для обеспечения прибыльности компании. Уставной капитал компании был увеличен до баснословной по тем временам суммы в 1,5 миллиона долларов. Были закуплены новые станки и оборудование, увеличен штат сотрудников. В 1905 году из цехов завода выехали 750 автомобилей, годом позже объем реализации составлял 1400 машин.
+/n/n
+В 1908 году Дэвид Д. Бьюик, до сих пор состоявший в совете директоров, по собственной инициативе покинул компанию, получив в качестве выходного пособия 100 тысяч долларов. В этом же году Buick Motor Company присоединилась к General Motors, оставаясь при этом самостоятельным подразделением.
+
+Модель 1908 года Buick 10 с 4-цилиндровым двигателем стал особенно популярен.
+    В 1925 году приобрел широкое признание Buick-25 «туристического типа» с открытым кузовом на шасси Standard Six.
+
+К 1936 году значительно расширен модельный ряд. Появляются новые семейства автомобилей от Buick - Special, Century, Roadmaster и Limited. Продукция компании становится в один ряд с Pontiac и Chevrolet.
+
+В 1934 году на модель 66S установлен стосильный двигатель и независимая подвеска передних колес.
+
+Roadmaster 1936 года выпускался в двух вариантах: открытый – фаэтон Buick 87С и закрытый – седан Buick 81.
+    В 1938 году Buick представил первый в истории автомобилестроения концепт-кар Buick Y-job, не предназначавшийся для продажи. Автомобиль стал прототипом для последующих моделей компании, ведь он был «напичкан» новшествами – передние фары с сервоприводом, утопленные ручки дверей, электропривод стекол, бамперы, заходящие на боковины кузова.
+    1939 год внесен в историю компании как год производства самого длинного и самого престижного автомобиля – восьмиместного лимузина Buick 39-90L серии Limited.
+    50-летие бренда отмечено появлением на свет модели Roadmaster Skylark Anniversary Convertible. Для автомобиля были выбраны лишь два цветовых решения – белый и красный цвета. Цена «нашпигованного» допоборудованием авто составляла порядка 5000 долларов, но несмотря на поистине высокую цену все 1690 экземпляров были проданы и на данный момент являются исключительно коллекционными.</string>
+    <string name="american_cars2">Американские</string>
+    <string name="american_cars3">Американские</string>
+    <string name="american_cars4">Американские</string>
+    <string name="american_cars5">Американские</string>
+    <string name="american_cars6">Американские</string>
+    <string name="american_cars7">Американские</string>
+    <string name="american_cars8">Американские</string>
+    <string name="american_cars9">Американские</string>
+    <string name="american_cars10">Американские</string>
+    <string name="american_cars11">Американские</string>
+    <string name="american_cars12">Американские</string>
+    <string name="american_cars13">Американские</string>
+    <string name="american_cars14">Американские</string>
+    <string name="american_cars15">Американские</string>
+
+    <string name="european_cars">Европейские</string>
+    <string name="european_cars1">Европейские</string>
+    <string name="european_cars2">Европейские</string>
+    <string name="european_cars3">Европейские</string>
+    <string name="european_cars4">Европейские</string>
+    <string name="european_cars5">Европейские</string>
+    <string name="european_cars6">Европейские</string>
+    <string name="european_cars7">Европейские</string>
+    <string name="european_cars8">Европейские</string>
+    <string name="european_cars9">Европейские</string>
+    <string name="european_cars10">Европейские</string>
+    <string name="european_cars11">Европейские</string>
+    <string name="european_cars12">Европейские</string>
+    <string name="european_cars13">Европейские</string>
+    <string name="european_cars14">Европейские</string>
+    <string name="european_cars15">Европейские</string>
+    <string name="european_cars16">Европейские</string>
+    <string name="european_cars17">Европейские</string>
+    <string name="european_cars18">Европейские</string>
+    <string name="european_cars19">Европейские</string>
+    <string name="european_cars20">Европейские</string>
+    <string name="european_cars21">Европейские</string>
+    <string name="european_cars22">Европейские</string>
+    <string name="european_cars23">Европейские</string>
+
+    <string name="chinese_cars">Китайские</string>
+    <string name="chinese_cars1">Китайские</string>
+    <string name="chinese_cars2">Китайские</string>
+    <string name="chinese_cars3">Китайские</string>
+    <string name="chinese_cars4">Китайские</string>
+    <string name="chinese_cars5">Китайские</string>
+    <string name="chinese_cars6">Китайские</string>
+    <string name="chinese_cars7">Китайские</string>
+    <string name="chinese_cars8">Китайские</string>
+    <string name="chinese_cars9">Китайские</string>
+    <string name="chinese_cars10">Китайские</string>
+    <string name="chinese_cars11">Китайские</string>
+    <string name="chinese_cars12">Китайские</string>
+    <string name="chinese_cars13">Китайские</string>
+    <string name="chinese_cars14">Китайские</string>
+    <string name="chinese_cars15">Китайские</string>
+
+    <string name="korean_cars">Корейские</string>
+    <string name="korean_cars1">Корейские</string>
+    <string name="korean_cars2">Корейские</string>
+    <string name="korean_cars3">Корейские</string>
+    <string name="korean_cars4">Корейские</string>
+    <string name="korean_cars5">Корейские</string>
+
+    <string name="german_cars">Немецкие</string>
+    <string name="german_cars1">Немецкие</string>
+    <string name="german_cars2">Немецкие</string>
+    <string name="german_cars3">Немецкие</string>
+    <string name="german_cars4">Немецкие</string>
+    <string name="german_cars5">Немецкие</string>
+    <string name="german_cars6">Немецкие</string>
+
+    <string name="russian_cars">Русские</string>
+    <string name="russian_cars1">Русские</string>
+    <string name="russian_cars2">Русские</string>
+    <string name="russian_cars3">Русские</string>
+    <string name="russian_cars4">Русские</string>
+    <string name="russian_cars5">Русские</string>
+    <string name="russian_cars6">Русские</string>
+
+    <string name="japanese_cars">Японские</string>
+    <string name="japanese_cars1">Японские</string>
+    <string name="japanese_cars2">Японские</string>
+    <string name="japanese_cars3">Японские</string>
+    <string name="japanese_cars4">Японские</string>
+    <string name="japanese_cars5">Японские</string>
+    <string name="japanese_cars6">Японские</string>
+    <string name="japanese_cars7">Японские</string>
+    <string name="japanese_cars8">Японские</string>
+    <string name="japanese_cars9">Японские</string>
+    <string name="japanese_cars10">Японские</string>
+    <string name="japanese_cars11">Японские</string>
+    <string name="japanese_cars12">Японские</string>
+    <string name="japanese_cars13">Японские</string>
+    <string name="nav_subtitle">История</string>
+    <string name="facts">Интересные факты, собития</string>
+    <string name="facts1">Интересные факты, собития</string>
+    <string name="facts2">Интересные факты, собития</string>
+    <string name="persons">Значимые личности</string>
+    <string name="persons1">Значимые личности</string>
+    <string name="persons2">Значимые личности</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>

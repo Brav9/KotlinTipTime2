@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CaclulatorMY" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MoviesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyAppProductomparison" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyAppVersionTwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyMVPApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NewNotes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NewNotesMVP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLite-for-Beginners-2019" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeMVPApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeMVPAppVersionTree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeMVPAppVersionTwo" vcs="Git" />
+  </component>
+</project>

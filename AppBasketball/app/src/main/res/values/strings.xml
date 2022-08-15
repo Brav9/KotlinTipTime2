@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppBasketball</string>
+    <string name="team_one">Top Gear</string>
+    <string name="team_two">White Steel</string>
+    <string name="score_team_one">0</string>
+    <string name="score_team_two">0</string>
+    <string name="tree_points_team_one">+3 POINTS</string>
+    <string name="two_points_team_one">+2 POINTS</string>
+    <string name="free_throw_team_one">FREE THROW</string>
+    <string name="tree_points_team_two">+3 POINTS</string>
+    <string name="two_points_team_two">+2 POINTS</string>
+    <string name="free_throw_team_two">FREE THROW</string>
+    <string name="reset">Обнулить</string>
+</resources>

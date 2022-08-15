@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/dr1" />
+
+
+        <ImageView
+            android:id="@+id/profilePic"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignBottom="@+id/linearLayout"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/profile_pic" />
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/banner"
+            android:layout_toRightOf="@+id/profilePic"
+            android:background="@drawable/border"
+            android:orientation="horizontal"
+            android:weightSum="100">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="20"
+                android:background="@drawable/border"
+                android:text="Timeline"
+                android:textColor="@color/black"
+                android:textSize="8sp"
+                app:backgroundTint="@color/white" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="20"
+                android:background="@drawable/border"
+                android:text="About"
+                android:textColor="@color/black"
+                android:textSize="8sp"
+                app:backgroundTint="@color/white" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="20"
+                android:background="@drawable/border"
+                android:text="Frieds"
+                android:textColor="@color/black"
+                android:textSize="8sp"
+                app:backgroundTint="@color/white" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="20"
+                android:background="@drawable/border"
+                android:text="Photos"
+                android:textColor="@color/black"
+                android:textSize="8sp"
+                app:backgroundTint="@color/white" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="20"
+                android:background="@drawable/border"
+                android:text="More"
+                android:textColor="@color/black"
+                android:textSize="8sp"
+                app:backgroundTint="@color/white" />
+
+
+        </LinearLayout>
+
+        <EditText
+
+            android:id="@+id/textName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/banner"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="55dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Vasilya Bravman"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="@drawable/border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="15dp">
+
+        <LinearLayout
+            android:background="@drawable/border"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/linearLayout2">
+
+            <ImageView
+                android:layout_marginLeft="10sp"
+                android:layout_marginTop="10sp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/profile_pic" />
+
+            <EditText
+                android:id="@+id/etPost"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:hint="What's on your mind?" />
+
+
+        </LinearLayout>
+
+        <Button
+            android:textSize="10sp"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_alignParentRight="true"
+            android:text="Post" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+

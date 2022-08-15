@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wish">
+        <item>Money</item>
+        <item>Warning</item>
+        <item>A good day</item>
+        <item>Love</item>
+        <item>Hate</item>
+        <item>Hot night</item>
+        <item>Some problem</item>
+        <item>Amazing shot</item>
+    </string-array>
+</resources>

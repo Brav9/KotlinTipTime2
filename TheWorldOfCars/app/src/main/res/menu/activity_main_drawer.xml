@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_american_cars"
+            android:icon="@drawable/ic_united_states_of_america__1_"
+            android:title="@string/american_cars" />
+        <item
+            android:id="@+id/id_european_cars"
+            android:icon="@drawable/ic_europe"
+            android:title="@string/european_cars" />
+        <item
+            android:id="@+id/id_chinese_cars"
+            android:icon="@drawable/ic_china"
+            android:title="@string/chinese_cars" />
+        <item
+            android:id="@+id/id_korean_cars"
+            android:icon="@drawable/ic_korea"
+            android:title="@string/korean_cars" />
+        <item
+            android:id="@+id/id_german_cars"
+            android:icon="@drawable/ic_germany"
+            android:title="@string/german_cars" />
+        <item
+            android:id="@+id/id_russian_cars"
+            android:icon="@drawable/ic_russia"
+            android:title="@string/russian_cars" />
+        <item
+            android:id="@+id/id_japanese_cars"
+            android:icon="@drawable/ic_japan"
+            android:title="@string/japanese_cars" />
+    </group>
+
+    <item android:title="@string/nav_subtitle">
+        <menu>
+            <item
+                android:id="@+id/id_facts"
+                android:icon="@drawable/ic_tick"
+                android:title="@string/facts" />
+            <item
+                android:id="@+id/id_persons"
+                android:icon="@drawable/ic_group"
+                android:title="@string/persons" />
+        </menu>
+    </item>
+</menu>

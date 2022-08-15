@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyStopWatch</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Left_fragment">Left fragment</string>
+    <string name="Right_fragment">Right fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="central_fragment"></string>
+</resources>
